@@ -6,5 +6,5 @@
 4. update the ormconfig.js with your db
 5. npm run start
 
-To create a db tables copy tables.sql and paste into pgAdmin
-To create a list of users run command "npx typeorm-ts-node-esm migration:run -d ./ormconfig.js"
+- To create a db tables copy tables.sql and paste into pgAdmin
+- To create a list of users run command "npx typeorm-ts-node-esm migration:run -d ./ormconfig.js"
